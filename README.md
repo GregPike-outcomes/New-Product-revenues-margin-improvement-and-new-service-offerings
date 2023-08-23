@@ -1,3 +1,14 @@
+# Global Transformation experience
+
+20 years digital commercialisation experience in Global matrix reporting environments working with senior cross-functional leaders in Sales, Finance, Product Development, Risk, Operations and Technology to identify and implement opportunities to increase customer centricity and accelerate product benefits for customers and shareholders. 
+
+6 years Insurance Digital Product /Technology leadership
+
+Hiring, onboarding and training of Product owners, Customer Experience managers, Software engineers, Data engineers and IT Vendors. Teams ranging from 3-18 staff onshore and remote.
+
+Customer Experience and Product Roadmap ownership delivering between 15-23 software development sprints annually. IT Budget management between $1.3M to $5M USD annually.
+
+
 # New-Product-revenues-margin-improvement-and-new-service-offerings
 These project summaries highlight the impact of introducing new revenue streams, margin improvement strategies, and service enhancements across the Financial Services and Commercial Insurance markets.
 
@@ -7,13 +18,13 @@ Task: Appointed to establish the Data Operations Team in Asia and deploy the new
 
 P&L Impact:
 
-Phase 1: Introduced new digital products (A&H and Casualty), resulting in new premiums of $XXM in FY22 and $XXM+ in FY23.
+Phase 1: Launch new digital products (A&H and Casualty) Broker Channel resulting in new premiums of $10M in FY22 and $24M USD in FY23.
 
-Phase 2: Expanded channels via API/affinity partners and added Marine/Cargo and Reinsurance products.
+Phase 2: Expanded channels via API/Delegated Authority affinity partners and added Marine/Cargo and Reinsurance products generating $25M- 35M USD in FY23/24
 
 Phase 3: Expanded products via Super syndication.
 
-Achieved R&D savings of $XXXK in FY21 and FY22.
+Achieved R&D savings of $120-150K in FY21 and FY22.
 
 Implemented real-time data exchange to improve margin pricing by 1-2% COR, new data monetization opportunities, and automation with Machine Learning to eliminate manual processes.
 
