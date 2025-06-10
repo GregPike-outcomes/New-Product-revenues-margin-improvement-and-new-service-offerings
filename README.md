@@ -2,7 +2,7 @@
 
 20 years digital commercialisation experience in Global matrix reporting environments working with senior cross-functional leaders in Sales, Finance, Product Development, Risk, Operations and Technology to identify and implement opportunities to increase customer centricity and accelerate product benefits for customers and shareholders. 
 
-6 years Insurance Digital Product /Technology leadership
+7 years Insurance Digital Product /Technology leadership
 
 Hiring, onboarding and training of Product owners, Customer Experience managers, Software engineers, Data engineers and IT Vendors. Teams ranging from 3-18 staff onshore and remote.
 
@@ -11,6 +11,26 @@ Customer Experience and Product Roadmap ownership delivering between 15-23 softw
 
 # New-Product-revenues-margin-improvement-and-new-service-offerings
 These project summaries highlight the impact of introducing new revenue streams, margin improvement strategies, and service enhancements across the Financial Services and Commercial Insurance markets.
+
+Vision RE Partner (2024 onwards) - Product Owner – Vision RECap Platform (Proptech startup)	
+
+Task: Reporting to Managing Director, responsible for Product Roadmap, customer experience and uplifting value chain (People, processes, cyber controls, external API’s and systems) for Client delivery and management of offshore Product Software Development Vendor based in Budapest Hungary.
+
+P+L and Customer Impact:
+
+Key achievements: 
+
+Upgraded technology stack, cybersecurity, and BCP resilience, exceeding APRA 234/230 standards; ISO27001 certification in progress.
+
+Scaled platform to 45–60 insurers (global & local), supporting 200+ users
+
+Managed complex industrial property portfolios with $4–5Bn in Total Insured Values.
+
+Integrated Google Maps & Swiss Re Global CATNet Perils, with ANZSIC onboarding underway.
+
+Launched Zenphi Google workspace automation pilot, reducing customer onboarding & TTV from hours to seconds.
+
+
 
 Canopius (2021-2023) - Data Operations and Digital Product Deployment
 
@@ -27,6 +47,7 @@ Phase 3: Expanded products via Super syndication.
 Achieved R&D savings of $120-150K in FY21 and FY22.
 
 Implemented real-time data exchange to improve margin pricing by 1-2% COR, new data monetization opportunities, and automation with Machine Learning to eliminate manual processes.
+
 
 
 TravelCard Real-Time Travel Insurance (2018-2021)
